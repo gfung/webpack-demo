@@ -1,0 +1,364 @@
+{
+  "html-webpack-plugin for \"index.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "extract-text-webpack-plugin": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "ufFg": "ufFg"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/postcss-loader/index.js??postcss!app/main.css": "1Q41",
+      "node_modules/babel-loader/lib/index.js??ref--1!node_modules/eslint-loader/index.js!app/index.js": "2twT",
+      "node_modules/babel-loader/lib/index.js??ref--1!node_modules/eslint-loader/index.js!app/component.js": "YL6N",
+      "multi react": 0,
+      "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+      "node_modules/css-loader/lib/css-base.js": "FZ+f",
+      "node_modules/babel-loader/lib/index.js??ref--1!node_modules/eslint-loader/index.js!app/lazy.js": "co9Y",
+      "node_modules/style-loader/addStyles.js": "fjbf",
+      "node_modules/bootstrap/dist/js/bootstrap.js": "K3J8",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "Jmt5",
+      "multi /Users/admin/Documents/Github/webpack-demo/app/main.css /Users/admin/Documents/Github/webpack-demo/node_modules/bootstrap/dist/css/bootstrap.css": 1,
+      "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "1Q41": "1Q41",
+      "2twT": "2twT",
+      "YL6N": "YL6N",
+      "2CK1": "2CK1",
+      "FZ+f": "FZ+f",
+      "co9Y": "co9Y",
+      "fjbf": "fjbf",
+      "K3J8": "K3J8",
+      "Jmt5": "Jmt5",
+      "ufFg": "ufFg"
+    }
+  },
+  "chunks": {
+    "byName": {
+      "app": 1,
+      "vendor": 2,
+      "manifest": 3,
+      "style": 0
+    },
+    "byBlocks": {
+      "node_modules/babel-loader/lib/index.js??ref--1!node_modules/eslint-loader/index.js!app/component.js:0/0": 0
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  }
+}

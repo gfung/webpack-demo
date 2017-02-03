@@ -1,6 +1,6 @@
 {
-  "name": "webpack-demo",
-  "version": "1.6.4",
+  "name": "webpack-boostrap4",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,8 +25,10 @@
     "extract-text-webpack-plugin": "2.0.0-beta.5",
     "glob": "^7.1.1",
     "html-webpack-plugin": "^2.26.0",
+    "node-sass": "^4.5.0",
     "postcss-loader": "^1.2.2",
     "purifycss-webpack": "^0.4.0",
+    "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
     "stylelint": "^7.7.1",
     "webpack": "^2.2.0",
@@ -34,7 +36,8 @@
     "webpack-merge": "^2.5.0"
   },
   "dependencies": {
-    "purecss": "^0.6.2",
-    "react": "^15.4.2"
+    "bootstrap": "4.0.0-alpha.6",
+    "jquery": "^3.1.1",
+    "tether": "^1.4.0"
   }
 }
