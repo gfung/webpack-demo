@@ -160,6 +160,190 @@
           "0": 0
         }
       }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
     }
   ],
   "extract-text-webpack-plugin": [
@@ -314,6 +498,298 @@
           "0": 0
         }
       }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/public/css/main.css": "k2lb"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "k2lb": "k2lb"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "ufFg": "ufFg"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/public/css/main.css": "k2lb"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "k2lb": "k2lb"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "ufFg": "ufFg"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/public/css/main.css": "k2lb"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "k2lb": "k2lb"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "ufFg": "ufFg"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "p3vO"
+        },
+        "usedIds": {
+          "p3vO": "p3vO"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "p3vO"
+        },
+        "usedIds": {
+          "p3vO": "p3vO"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/sass-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "30P0"
+        },
+        "usedIds": {
+          "30P0": "30P0"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/sass-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "qU31"
+        },
+        "usedIds": {
+          "qU31": "qU31"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/bootstrap/scss/bootstrap.scss": "SSNS"
+        },
+        "usedIds": {
+          "SSNS": "SSNS"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "Tv+1"
+        },
+        "usedIds": {
+          "Tv+1": "Tv+1"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "ufFg": "ufFg"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "2CK1",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f"
+        },
+        "usedIds": {
+          "2CK1": "2CK1",
+          "FZ+f": "FZ+f"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
     }
   ],
   "modules": {
@@ -329,11 +805,27 @@
       "node_modules/bootstrap/dist/js/bootstrap.js": "K3J8",
       "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "Jmt5",
       "multi /Users/admin/Documents/Github/webpack-demo/app/main.css /Users/admin/Documents/Github/webpack-demo/node_modules/bootstrap/dist/css/bootstrap.css": 1,
-      "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg"
+      "node_modules/css-loader/index.js!node_modules/bootstrap/dist/css/bootstrap.css": "ufFg",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/postcss-loader/index.js??postcss!app/public/css/main.css": "5YGt",
+      "multi /Users/admin/Documents/Github/webpack-demo/app/public/css/main.css /Users/admin/Documents/Github/webpack-demo/node_modules/bootstrap/dist/css/bootstrap.css": 2,
+      "node_modules/css-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/public/css/main.css": "k2lb",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "SSNS",
+      "multi /Users/admin/Documents/Github/webpack-demo/node_modules/bootstrap/scss/bootstrap.scss /Users/admin/Documents/Github/webpack-demo/app/main.css": 3,
+      "node_modules/css-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "p3vO",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/sass-loader/index.js!node_modules/postcss-loader/index.js??postcss!app/main.css": "1Q41",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/sass-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "SSNS",
+      "node_modules/sass-loader/index.js!node_modules/bootstrap/scss/bootstrap.scss": "30P0",
+      "node_modules/sass-loader/index.js!node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!app/main.css": "qU31",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!style-loader!css-loader!node_modules/postcss-loader/index.js??postcss!app/main.css": "1Q41",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!style-loader!sass-loader!node_modules/bootstrap/scss/bootstrap.scss": "SSNS",
+      "multi /Users/admin/Documents/Github/webpack-demo/node_modules/bootstrap/dist/css/bootstrap.css /Users/admin/Documents/Github/webpack-demo/app/main.css": 4
     },
     "usedIds": {
       "0": 0,
       "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
       "1Q41": "1Q41",
       "2twT": "2twT",
       "YL6N": "YL6N",
@@ -343,7 +835,13 @@
       "fjbf": "fjbf",
       "K3J8": "K3J8",
       "Jmt5": "Jmt5",
-      "ufFg": "ufFg"
+      "ufFg": "ufFg",
+      "5YGt": "5YGt",
+      "k2lb": "k2lb",
+      "SSNS": "SSNS",
+      "p3vO": "p3vO",
+      "30P0": "30P0",
+      "qU31": "qU31"
     }
   },
   "chunks": {

@@ -10,8 +10,8 @@ const PATHS = {
     app: path.join(__dirname, 'app'),
     build: path.join(__dirname, 'build'),
     style: [
-        path.join(__dirname, 'app/','main.css'),
-        path.join(__dirname, 'node_modules/bootstrap/dist/css/','bootstrap.css'),
+        path.join(__dirname, 'node_modules/bootstrap/scss/','bootstrap.scss'),
+        path.join(__dirname, 'app/','main.scss'),
     ],
 };
 

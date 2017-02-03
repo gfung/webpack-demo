@@ -5,12 +5,6 @@ const component = function () {
     return element;
 };
 
-
-const treeShakingDemo = function () {
-    return 'this should get shaken out';
-};
-
 export {
-	component,
-	treeShakingDemo,
+    component,
 };
