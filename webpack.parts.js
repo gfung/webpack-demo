@@ -99,10 +99,11 @@ exports.extractCSS = function (paths) {
                     // paths.
                     include: paths,
 
-                    use: ExtractTextPlugin.extract({
-                        fallbackLoader: 'style-loader',
-                        loader: 'css-loader',
-                    }),
+                    loader: [
+                        ExtractTextPlugin.extract({loader: ['style-loader','css-loader', 'sass-loader']}),
+                        'css-loader',
+                        'sass-loader',
+                    ],
                 },
             ],
         },
@@ -234,3 +235,13 @@ exports.setFreeVariable = function (key, value) {
     };
 };
 
+exports.pugloader = function (paths) {
+    return {
+        loaders: [
+            { 
+                test: /\.(pug|jade)$/, 
+                loader: 'pug-html-loader',
+            },
+        ],
+    };
+};

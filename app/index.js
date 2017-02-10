@@ -3,7 +3,6 @@ let demoComponent = component();
 
 document.body.appendChild(demoComponent);
 
-
 // HMR interface
 if (module.hot) {
     // Capture hot update

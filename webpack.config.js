@@ -82,6 +82,7 @@ module.exports = function (env) {
             parts.purifyCSS(
 				glob.sync(path.join(PATHS.app, '*'))
 			),
+            parts.pugloader(PATHS.app)
         ]);
     }
 

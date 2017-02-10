@@ -1,0 +1,36 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    meta(name='description', content='')
+    meta(name='csrf-token', content=_csrf)
+    meta(name='author', content='')
+    //- link(rel='stylesheet' type='text/css' href='/libs/assets/animate.css/animate.css')
+    //- link(rel='stylesheet' type='text/css' href='/libs/assets/font-awesome/css/font-awesome.min.css')
+    //- link(rel='stylesheet' type='text/css' href='/libs/assets/simple-line-icons/css/simple-line-icons.css')
+    //- link(rel='stylesheet' type='text/css' href='/libs/jquery/bootstrap/dist/css/bootstrap.css')
+    //- link(rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Share+Tech+Mono')
+    //- link(rel='stylesheet' type='text/css' href='/css/font.css')
+    //- link(rel='stylesheet' type='text/css' href='/css/app.css')
+    //- link(rel='stylesheet' type='text/css' href="/bower_components/slick-carousel/slick/slick.css")
+    //- link(rel='stylesheet' type='text/css' href="/bower_components/slick-carousel/slick/slick-theme.css")
+    title #{title} | Hattori Hanzo Shears
+    block header
+
+  body
+    block body
+    //- script(src='/js/mediator.js')
+    //- script(src='/js/ui-load.js')
+    //- script(src='/js/ui-jp.config.js')
+    //- script(src='/js/ui-jp.js')
+    //- script(src='/js/ui-nav.js')
+    //- script(src='/js/ui-toggle.js')
+    //- script(src='/js/ui-client.js')
+    //- script(src='/js/custom.js')
+    block scripts
+    script.
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+      })
